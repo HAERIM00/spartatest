@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import AcceessLog
+from .models import AccessLog 
 
-admin.site.register(AcceessLog) 
+admin.site.register(AccessLog)

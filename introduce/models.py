@@ -1,6 +1,4 @@
-#user/models.py
 from django.db import models
-
 class AccessLog(models.Model):
     """
     1. default : 기본적으로 사용될 날짜를 사용자가 지정

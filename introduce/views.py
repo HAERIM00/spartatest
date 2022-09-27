@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from introduce.models import AccessLog
+from .models import AccessLog
 
 def introduce(request):
     # case 1
