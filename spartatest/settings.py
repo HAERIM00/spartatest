@@ -10,9 +10,6 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
-import os 
-import sys
-import django
 from django.conf import settings
 from pathlib import Path
 from customuser.models import CustomModel

@@ -1,6 +1,3 @@
-from symbol import import_from
-
-
 import django
 django.setup()
 from customuser.models import CustomModel
